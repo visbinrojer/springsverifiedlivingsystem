@@ -1,3 +1,5 @@
 libpq-dev
 postgresql-client
 gettext
+libjpeg-dev 
+zlib1g-dev
