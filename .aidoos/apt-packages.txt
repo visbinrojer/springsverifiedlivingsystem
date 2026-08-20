@@ -3,3 +3,4 @@ postgresql-client
 gettext
 libjpeg-dev 
 zlib1g-dev
+nginx
